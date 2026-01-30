@@ -1,3 +1,9 @@
+#源项目：writemyfont
+# → https://github.com/ButTaiwan/writemyfont
+
+#字体手写生成网址：
+# → https://buttaiwan.github.io/writemyfont/
+
 # FontDrawer
 
 FontDrawer 是一個基於 HTML5 Canvas 的字型繪製工具，允許使用者自由繪製字型並生成 OTF 字型檔案。此工具有繁體中文與日文兩個版本，並提供自動化功能以簡化手寫字型的生成過程。
