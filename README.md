@@ -1,7 +1,7 @@
-#源项目：writemyfont
+#源项目作者及网址：writemyfont
 # → https://github.com/ButTaiwan/writemyfont
 
-#字体手写生成网址：
+#手寫字型產生器（by字嗨）的网址：
 # → https://buttaiwan.github.io/writemyfont/
 
 # FontDrawer
